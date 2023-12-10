@@ -14,8 +14,8 @@ Complete the following steps:
     * Use `sample_values` as the values for the bar chart.
     * Use `otu_ids` as the labels for the bar chart.
     * Use `otu_labels` as the hovertext for the chart.
-    
-pic 1 goes here;
+   
+  ![Screenshot 1](https://github.com/isekmen/belly-button-challenge/assets/101214487/db10a0d0-82c0-4733-a73d-05044a2a7e42)
 
  3. Create a bubble chart that displays each sample.
     * Use `otu_ids` for the x values.
@@ -24,14 +24,13 @@ pic 1 goes here;
     * Use `otu_ids` for the marker colors.
     * Use `otu_labels` for the text values.
     
- pic 2
-
+ ![Screenshot 2](https://github.com/isekmen/belly-button-challenge/assets/101214487/21314371-c30a-46d6-b7ba-dee0376aaf38)
 
   4. Display the sample metadata, i.e., an individual's demographic information.
 
   5. Display each key-value pair from the metadata JSON object somewhere on the page.
   
-pic 3
+![Screenshot 3](https://github.com/isekmen/belly-button-challenge/assets/101214487/b50bc4bd-c70b-420b-9dab-d9f9433300f9)
 
   6. Update all the plots when a new sample is selected.
 
